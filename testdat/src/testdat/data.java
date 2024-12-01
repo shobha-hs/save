@@ -6,7 +6,7 @@ public class data {
 	
 		System.out.println("The system is calculated suuucessfully");
 		System.out.println("The system is calculated suuucessfully");
-		System.out.println("The system is calculated suuucessfully");
+		System.out.println("The system is calculated suuucessfully-1-2");
 		System.out.println("The system is calculated suuucessfully");
 
 	}
