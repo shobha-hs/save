@@ -3,7 +3,11 @@ package testdat;
 public class data {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+		System.out.println("The system is calculated suuucessfully");
+		System.out.println("The system is calculated suuucessfully");
+		System.out.println("The system is calculated suuucessfully");
+		System.out.println("The system is calculated suuucessfully");
 
 	}
 
