@@ -4,11 +4,12 @@ public class utility {
 
 	public static void main(String[] args) {
 	
-		
-		// 1. select method 
+		//  for dropdown
+		// 1. select method --
 		// click method 
 		// save method 
-		// table redaing 
+		// using the method tr and td
+		// table redaing - 
 
 		// shwetha adding the new feature to this 
 		// excel reading 
